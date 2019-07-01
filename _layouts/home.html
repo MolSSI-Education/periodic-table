@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  <!doctype html>
+  <html class="no-js" lang="">
+      <head>
+          <meta charset="utf-8">
+      </head>
+      <body>
+          <script src="script/new_data.js"></script>
+          <script src="script/main.js"></script>
+          <div id="container">
+              <div id="center">
+                  <div id="periodic-table">
+                      <div style="grid-column:6/11; grid-row:3;">Click an element.</div>
+                  </div>
+              </div>
+          </div>
+        <div id="madeby">
+            <span>Based on the <a href="https://github.com/ablakey/periodic">Periodic Table</a> by</span>
+            <a href="http://github.com/ablakey/">Andrew Blakey</a>
+        </div>
+      </body>
+  </html>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</div>
