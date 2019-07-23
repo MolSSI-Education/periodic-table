@@ -16,4 +16,4 @@ Fun Facts:
 * Some meteoroids have high amounts of Iridium
 
 *References*
-All information is gathered from Wikipedia [[Iridium|https://en.wikipedia.org/wiki/Iridium]]
+All information is gathered from Wikipedia [Iridium](https://en.wikipedia.org/wiki/Iridium)
