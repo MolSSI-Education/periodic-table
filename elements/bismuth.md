@@ -3,7 +3,7 @@ layout: page
 title: Bismuth
 ---
 
-#Bismuth
+# Bismuth
 
 Symbol: Bi
 
