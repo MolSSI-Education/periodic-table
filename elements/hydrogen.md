@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hydrogen
+symbol: H
 MW : 1.008
 Atomic Number : 1
 Isotopes Masses : 1, 2, 3*
