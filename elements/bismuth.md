@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Bismuth
+title:  bismuth
 ---
 
-# Bismuth
-
-Symbol: Bi
-
-Atomic number: 83
+Atomic Symbol : Bi  
+Atomic Number : 83. 
 
 Atomic weight: 208.98040
 
