@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Hydrogen
+---
+
 symbol: H
 MW : 1.008
 Atomic Number : 1
 Isotopes Masses : 1, 2, 3*
----
+
 
 1. About 10 percent of the weight of living organisms is hydrogen – mainly in water, proteins and fats.
 

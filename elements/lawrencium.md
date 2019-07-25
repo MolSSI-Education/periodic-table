@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Lawrencium
+title: 
+---
+
+
 symbol: Lr
 MW : 262*
 Atomic Number : 103
 Isotopes Masses : 254*, 255*, 256*, 259*, 260*,261*, 262*, 266*
----
+
 
 
 Lawrencium Fun Facts!
