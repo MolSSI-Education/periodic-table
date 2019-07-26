@@ -20,3 +20,17 @@ It has a Van der Waals radius of 207 pm.
 The all-knowing source for this information was: [Wikipedia](https://en.wikipedia.org/wiki/Bismuth)
 
 A more reputable source would be: [NIST](https://webbook.nist.gov/cgi/inchi/InChI%3D1S/Bi)
+
+Atomic Symbol : Bi  
+Atomic Number : 83. 
+
+Atomic weight: 208.98040
+
+Half-life: Over 1 billion times the age of the universe
+
+Best known for: Putting the "bis" in pepto bismol
+
+Favorite color: Pink
+
+Hobbies: Nausea, heartburn, indigestion, upset stomach, diarrhea
+
