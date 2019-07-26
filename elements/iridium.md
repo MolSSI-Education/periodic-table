@@ -17,3 +17,6 @@ Fun Facts:
 
 *References*
 All information is gathered from Wikipedia [Iridium](https://en.wikipedia.org/wiki/Iridium)
+
+Iridium has the symbol **Ir** and its atomic number is *77*.
+
