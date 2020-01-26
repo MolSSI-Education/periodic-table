@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Carbon
+title: Thorium
 ---
 
 
-Symbol : C
-Atomic number : 6
+Symbol : Th
+Atomic number : 90
 
+Weakly radioactive mettalic chemical element
