@@ -1,4 +1,4 @@
-# 2019 MolSSI Software Summer School
+# 2020 MolSSI Software Best Practices Bootcamp - Buffalo, NY
 
 This repo contains files for a periodic table website.
 
