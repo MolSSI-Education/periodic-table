@@ -16,3 +16,5 @@ outer and inner core. Iron is present in oxygen-transporting
 protein hemoglobin in red blood cell.
 
 The most common isotope of iron is Fe-56.
+
+The melting point of iron is 1811 K.
