@@ -3,9 +3,9 @@ layout: page
 title: Iron
 ---
 
-Symbol = Fe
-mass = 55.845 
-Atomic Number: **26**. 
+Symbol: Fe
+Mass: 55.845 
+Atomic Number: **26**
 
 The Latin name for iron is ferrum, which is the source of 
 its atomic symbol, Fe. It is a metal that belongs to the 
