@@ -14,3 +14,5 @@ electronic configuration is [Ar] 3d<sup>6</sup> 4s<sup>2</sup>. It is by mass
 the most common element on Earth, forming much of Earth's 
 outer and inner core. Iron is present in oxygen-transporting 
 protein hemoglobin in red blood cell.
+
+The melting point of iron is 1811 K.
