@@ -3,15 +3,9 @@ layout: page
 title: Iron
 ---
 
-<<<<<<< HEAD
 Symbol: Fe<br/>
 Mass: 55.845<br/>
 Atomic Number: **26**.<br/>
-=======
-Symbol = Fe<br/>
-mass = 55.845<br/>
-Atomic Number: **26**.<br/>
->>>>>>> Add line breaks to iron.md
 
 The Latin name for iron is ferrum, which is the source of 
 its atomic symbol, Fe. It is a metal that belongs to the 
@@ -22,3 +16,6 @@ outer and inner core. Iron is present in oxygen-transporting
 protein hemoglobin in red blood cell.
 
 The most common isotope of iron is Fe-56.
+
+The melting point of iron is 1811 K.
+
