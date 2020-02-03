@@ -4,6 +4,6 @@ title: Carbon
 ---
 
 
-Symbol : C
-Atomic number : 6
+Symbol : C<br/>
+Atomic number : 6<br/>
 
