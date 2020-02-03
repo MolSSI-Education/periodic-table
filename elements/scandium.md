@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Copper
+title: Scandium
 ---
 
-When copper oxidizes, it turns a blue-green color. 
-This is what gives the Statue of Liberty its color (it was originally the same color as a penny!)
+Swedish chemist Lars F. Nilson first discovered scandium. He named scandium after his homeland using the Latin word "Scandia" which stood for "Scandinavia". 
