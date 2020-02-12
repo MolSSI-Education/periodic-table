@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Neon
 ---
@@ -12,4 +12,5 @@ This element is used in neon signs.
 1. Atomic Number: 10
 2. colorless and odorless gas
 3. Monoatomic gas
+4. lonely
 
