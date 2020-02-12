@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Neon
 ---
@@ -10,4 +10,5 @@ This element is bright and noble (may or may not be respected in the society).
 1. Atomic Number: 10
 2. colorless and odorless gas
 3. Monoatomic gas
+4. lonely
 
