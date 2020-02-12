@@ -15,4 +15,6 @@ the most common element on Earth, forming much of Earth's
 outer and inner core. Iron is present in oxygen-transporting 
 protein hemoglobin in red blood cell.
 
+Its appearance is lustrous metallic with a grayish tinge.
+
 The most common isotope of iron is Fe-56.
