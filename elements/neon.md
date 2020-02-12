@@ -12,5 +12,5 @@ This element is used in neon signs.
 1. Atomic Number: 10
 2. colorless and odorless gas
 3. Monoatomic gas
-4. lonely
-
+4. It is not really used in light bulbs anymore.
+5. lonely
