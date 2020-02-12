@@ -11,3 +11,6 @@ I'm right next to Hydrogen. I cause people to have a funny voice when inhaled.
 1. Number of Neutrons: 2
 1. Number of Electrons: 2
 
+## Facts
+
+1. Helium was the first element that was not discovered on Earth. It was Sun’s spectroscopy data that first revealed that existence of this element.
