@@ -17,3 +17,5 @@ Behaves similarly to lanthanide elements.
 
 Forms a wide variety of intermetallic compounds, including Y2Co17, YNi5, YFe2, and much more!
 
+The radioactive isotope yttrium-90 is used in drugs for the treatment of various cancers.
+
