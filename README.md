@@ -1,4 +1,4 @@
-# 2019 MolSSI Software Summer School
+# 2020 MolSSI Software Summer School
 
 This repo contains files for a periodic table website.
 
