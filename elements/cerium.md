@@ -1,0 +1,3 @@
+yout: page
+title: Barium
+---
