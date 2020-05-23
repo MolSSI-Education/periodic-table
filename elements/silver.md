@@ -10,3 +10,7 @@ Can be used for coins. Can be used for medical devices. Measured in Troy Ounce. 
 [Wikipedia](https://en.wikipedia.org/wiki/Silver)
 
 [Price Check](https://www.apmex.com/silver-price)
+
+Argentina is named after the Latin word for silver, argentum.
+
+[Argentina wiki](https://en.wikipedia.org/wiki/Argentina)
