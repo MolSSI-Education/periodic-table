@@ -16,3 +16,6 @@ The more you have it in your hair, the curlier they are.
 You can blame it for the horrible smell at the thermal baths.
 
 It's yellow.
+
+
+Guys, stop it with the puns. We've all sulfured enough
