@@ -18,3 +18,5 @@ protein hemoglobin in red blood cell.
 Its appearance is lustrous metallic with a grayish tinge.
 
 The most common isotope of iron is Fe-56.
+
+Iron 56 has the most stable nucleus of all the elements
