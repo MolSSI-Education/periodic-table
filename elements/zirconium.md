@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seaborgium
+title: Zirconium
 ---
 
 Symbol: Zr
