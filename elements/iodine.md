@@ -1,6 +1,6 @@
 ---
 layout: page
-title: iodine
+title: Iodine
 ---
 
 Symbol: I
@@ -28,4 +28,4 @@ Triple point:	386.65 K, ​12.1 kPa
 Critical point:	819 K, 11.7 MPa
 Heat of fusion:	(I2) 15.52 kJ/mol
 Heat of vaporisation:	(I2) 41.57 kJ/mol
-Molar heat capacity:	(I2) 54.44 J/(mol·K)
+Molar heat capacity:	(I2) 54.44 J/(mol·K)g
