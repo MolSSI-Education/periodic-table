@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sulfur
+title: Indium
 ---
 
 # Indium
