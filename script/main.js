@@ -6,10 +6,6 @@ function onElementClick() {
   return false
 }
 
-function getStarRank(count) {
-  return Math.ceil(Math.min(count, 1000) / 200)
-}
-
 const colors = {
   404: '#ffffff',
   200: '#ed1c24ff',
@@ -39,10 +35,13 @@ function addElementToTable(data, tableDiv) {
 
 window.onload = () => {
   let tableDiv = document.querySelector('#periodic-table')
+  let loader = document.querySelector("#loader")
 
   window.tableData.forEach((e) => {
     addElementToTable(e, tableDiv)
   })
 
-  showElementDetails(window.tableData[0])
+  // remove loading animation
+  loader.remove()
+  
 }
