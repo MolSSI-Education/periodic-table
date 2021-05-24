@@ -13,12 +13,28 @@ layout: default
           <meta charset="utf-8">
       </head>
       <body>
+
           <script src="script/new_data.js"></script>
           <script src="script/main.js"></script>
           <div id="container">
               <div id="center">
                   <div id="periodic-table">
-                      <div style="grid-column:6/11; grid-row:3;">Click an element.</div>
+                  
+                    {% assign element_list = "" | split: ',' %}
+
+                    {% for page in site.pages %}
+                        {% assign element_list = element_list| push: page.url %}
+                    {% endfor %}
+
+                    {% for element in site.data.elements %}
+                      {% assign element_url = "/elements/" | append: element.name | append: ".html" | downcase %}
+                      {% if element_list contains element_url %} 
+                          <div class="table-element" style="grid-column:{{ element.col }}; grid-row:{{ element.row }}; background-color:#ed1c24ff" id="{{ element.number }}" href="{{ element.url }}">{{ element.symbol }}</div>
+                      {% else %}
+                      <div class="table-element" style="grid-column:{{ element.col }}; grid-row:{{ element.row }}; background-color:#ffffffff" id="{{ element.number }}" href="{{ element.url }}">{{ element.symbol }}</div>
+
+                      {% endif %}
+                    {% endfor %} 
                   </div>
               </div>
           </div>
