@@ -7,4 +7,6 @@ title: Thorium
 Symbol : Th
 Atomic number : 90
 
-Weakly radioactive mettalic chemical element
+Weakly radioactive metallic chemical element
+
+Solid at STP
