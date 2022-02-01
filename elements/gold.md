@@ -14,4 +14,4 @@ Atomic Number: 79
 
 4. The symbol Au for gold comes from the latin word for gold "Aurum"
 
-5. What did the bank teller say to the bank robber? "A. U. Give me back that gold!"
+5. What did the bank teller say to the bank robber? "A. U. Give me back that gold!!"
