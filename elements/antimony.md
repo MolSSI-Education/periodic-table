@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Argon
+title: Antimony
 ---
 Atomic Number: 51
 
