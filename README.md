@@ -1,6 +1,6 @@
-# Python Package Best Practices - 2020 MolSSI Webinar Series
+# MolSSI Periodic Table Website
 
-This repo contains files for a periodic table website.
+This repo contains files for a periodic table website. We use this repo in the [MolSSI Best Practices Workshop](https://education.molssi.org/python-package-best-practices/) on [code collaboration](https://education.molssi.org/python-package-best-practices/07-collaboration/index.html).
 
 This website uses the `minima` theme.
 
