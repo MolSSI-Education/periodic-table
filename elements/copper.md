@@ -3,5 +3,9 @@ layout: page
 title: Copper
 ---
 
-When copper oxidizes, it turns a blue-green color. 
-This is what gives the Statue of Liberty its color (it was originally the same color as a penny!)
+[Wikipedia](https://en.wikipedia.org/wiki/Copper): Copper is a chemical element with the symbol Cu (from Latin: cuprum) and atomic number 29.
+
+Copper has been in use at least 10,000 years, but more than 95% of all copper ever mined and smelted has been extracted since 1900, and more than half was extracted the last 24 years.
+
+What don't you understand about copper? It makes perfect CENTS!
+

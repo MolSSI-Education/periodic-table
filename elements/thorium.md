@@ -14,3 +14,7 @@ mass = 232.038
 5. An iconic Th(IV) compound is thorocene.
 6. For more information on thorocene, please visit: https://doi.org/10.1002/chem.201904166
 7. Please cite the above paper whenever you can.
+
+Weakly radioactive metallic chemical element
+
+Solid at STP
