@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sodium
+title: Cadmuium
 ---
 
 Symbol :Cd  
