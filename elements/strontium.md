@@ -9,7 +9,7 @@ title: Strontium
 # Standard symbol on periodic table
 Symbol : Sr
 # Atomic number is the proton count, whole number, no leading zeros
-Atomic Number : 28
+Atomic Number : 38
 # Atomic weight relative to 1/12 Carbon-12, 
 # we choose to include 2 decimal places.
 Atomic Weight : 87.62 
