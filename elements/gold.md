@@ -15,3 +15,4 @@ Atomic Number: 79
 4. The symbol Au for gold comes from the latin word for gold "Aurum"
 
 5. What did the bank teller say to the bank robber? "A. U. Give me back that gold!!"
+6. Gold is the most malleable element. A single ounce of gold can be beaten into a 300-square-foot sheet. 
