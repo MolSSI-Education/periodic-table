@@ -7,6 +7,8 @@ Tungsten (Wolfram) is a d-block transition metal with an atomic mass of 183.84 a
 
 Tungsten is fun. It's the type of element you could grab a beer with before work.
 
+Tungsten can be used in alkylidene catalysts.
+
 Symbol : W  
 Atomic number : 74  
 This is the element which enabled Edison to say Let there be light. Used as filaments in bulbs. 
