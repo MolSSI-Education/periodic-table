@@ -4,8 +4,8 @@ title: Plutonium
 ---
 
 Symbol : Pu
-MW: 244
 Atomic Number : 94
+Atomic Weight: 244 uma
 
 1. Plutonium was first synthetically produced and isolated in late 1940 and early 1941.
 
