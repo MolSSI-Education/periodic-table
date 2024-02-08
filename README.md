@@ -5,6 +5,9 @@ This repo contains files for a periodic table website. We use this repo in the [
 This website uses the `minima` theme.
 
 This site uses Jekyll and GitHub pages. To build and view it locally, install [Jekyll](https://jekyllrb.com/). Then, navigate to the folder where you've cloned this repository and type
+'''
+Just write something and try
+'''
 
 ```
 $ bundle exec jekyll serve
