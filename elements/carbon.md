@@ -7,8 +7,8 @@ title: Carbon
 Symbol : C<br/>
 Atomic number : 6<br/>
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-0. 
+
+0. Carbon characteristics: 
 
 1. Carbon is the sixth element, with a ground-state electron configuration of 1s22s22p2, of which the four outer electrons are valence electrons. 
 
