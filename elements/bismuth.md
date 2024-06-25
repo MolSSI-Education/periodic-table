@@ -34,3 +34,4 @@ Favorite color: Pink
 
 Hobbies: Nausea, heartburn, indigestion, upset stomach, diarrhea
 
+Such a cool picture
