@@ -13,6 +13,7 @@ title: Iridium
     * crucibles for semiconductor recrystallization
 Fun Facts:
 * One of the rarests elements in the earth's crust
+* Strongest element in Stardew Valley
 * Some meteoroids have high amounts of Iridium
 
 *References*
