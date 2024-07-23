@@ -13,3 +13,5 @@ Here's some stuff about zinc.
 Atomic Number: 30
 Average Atomic Mass: 65.39
 Electronic Configuration:  [Ar]3d10,4s2
+
+Zinc is primarily used as a coating on iron and steel to protect against corrosion.   
