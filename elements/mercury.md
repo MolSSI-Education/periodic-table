@@ -9,6 +9,6 @@ Symbol: Hg
 
 Atomic Number: 80
 
-Fun fact: This element did not receive its name from the musician Freddie Mercury, contrary to popular belief.
+Fun fact: This element did not receive its name from the musician Freddie Mercury, contrary to popular belief. The symbol for Mercury, Hg, comes from its greek name, hydrargyrum, which means "liquid silver". 
 
 [Wikipedia](https://en.wikipedia.org/wiki/Mercury_(element))
