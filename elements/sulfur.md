@@ -13,7 +13,7 @@ Category: Reactive nonmetal
 
 The more you have it in your hair, the curlier they are.
 
-You can blame it for the horrible smell at the thermal baths.
+#You can blame it for the horrible smell at the thermal baths.
 
 It's yellow.
 
