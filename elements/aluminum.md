@@ -1,0 +1,12 @@
+---
+layout: page
+title: Aluminum
+---
+
+Aluminium (aluminum in American and Canadian English) is a chemical element with the symbol Al and atomic number 13. Aluminium has a density lower than those of other common metals, at approximately one third that of steel. Aluminium has a great affinity towards oxygen, thanks to which it forms a protective layer of oxide on the surface. Aluminium visually resembles silver, both in color and in great ability to reflect light. Aluminium is soft, non-magnetic and ductile. It has one stable isotope, 27Al; this isotope is very common, making aluminium the twelfth most common element in the Universe. The radioactivity of 26Al is used in radiodating.
+
+Chemically, aluminium is a weak metal in the boron group; as it is common for the group, aluminium forms compounds primarily in the +3 oxidation state. The aluminium cation Al3+ is small and highly charged; as such, it is polarizing, and bonds aluminium forms tend towards covalency. The strong affinity towards oxygen leads to aluminium's common association with oxygen in nature in the form of oxides; for this reason, aluminium is found on Earth primarily in rocks in the crust, where it is the third most abundant element after oxygen and silicon, rather than in the mantle, and virtually never as the free metal.
+
+The discovery of aluminium was announced in 1825 by Danish physicist Hans Christian Ørsted. The first industrial production of aluminium was initiated by French chemist Henri Étienne Sainte-Claire Deville in 1856. Aluminium became much more available to the public with the Hall–Héroult process developed independently by French engineer Paul Héroult and American engineer Charles Martin Hall in 1886, and the mass production of aluminium led to its extensive use in industry and everyday life. In World Wars I and II, aluminium was a crucial strategic resource for aviation. In 1954, aluminium became the most produced non-ferrous metal, surpassing copper. In the 21st century, most aluminium was consumed in transportation, engineering, construction, and packaging in the United States, Western Europe, and Japan.
+
+Despite its prevalence in the environment, no living organism is known to use aluminium salts metabolically, but aluminium is well tolerated by plants and animals. Because of the abundance of these salts, the potential for a biological role for them is of continuing interest, and studies continue.
